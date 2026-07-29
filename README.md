@@ -4,7 +4,8 @@ API REST para abertura e gerenciamento de tickets de suporte técnico, com **cla
 
 Inclui uma interface web simples (HTML + JS puro) para criar tickets, listá-los e disparar a análise por IA com um clique.
 
-🔗 **Demo online:** a API está publicada em [https://seu-link-aqui.com](https://seu-link-aqui.com) para fins de teste/demonstração. A documentação interativa pode ser acessada em `https://seu-link-aqui.com/docs`.
+🔗 **Demo online:** a API está publicada no [Render](https://api-tickets-ia.onrender.com/) para fins de teste/demonstração. A documentação interativa pode ser acessada [aqui](https://api-tickets-ia.onrender.com/docs). \
+O servidor entra em "sleep" mode após um período de inatividade, se for o caso aguarde alguns segundos e a API estará online novamente.
 
 ## Funcionalidades
 
